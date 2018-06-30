@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Elextra
 
-You can use the [editor on GitHub](https://github.com/adityakhannaadk/elextra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Elextra is a highly advanced and versatile personal assistant. With the help of various algorithms, it finds out what you are asking for, formulates a gist and generates a response.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does it work?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Step 1:* Index algorithm.
+This function indexes words by their different meaning, words which relay a similar meaning are put closer together whereas words which relay highly different meanings are put farther away from each other. To do this, the algorithm needs three different lists, each list must contain statements conveying a similar meaning however each list may convey a different meaning.
 
 ```markdown
-Syntax highlighted code block
+Index examples
+>>> list1 = ["the quick brown fox jumps over the lazy dog","the fast red fox kartwheels over the relaxed dog"]
+... list2 = ["the energetic cat takes another fish","the energised feline grabs another fish"]
+... list3 = ["the curious mammal peeks at the focused human","the questioning animal looks at the concentrated person"]
+>>> ["quick","fast""...","brown","red","...","fox","fox","...","dog","dog","...","lazy","relaxed"]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
