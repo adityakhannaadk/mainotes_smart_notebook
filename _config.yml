@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: elextra-an advanced intelligent personal assistant
+description: Elextra is an advanced assistant. With the help of various neural networks, pre-indexed files and algorithms,
+elektra can handle complex queries. Currently elextra is not programmed to get weather updates or contact the internet in any way. It
+can only handle list-based queries.
