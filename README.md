@@ -1,3 +1,3 @@
-## Welcome to brain tumour recognition
-Uses computer vision and TensorFlow to classify and detect brain tumours.
+## EduGoAi
+Uses sequences and a neural network to tailor the most beneficial and challenging quizzes.
 
