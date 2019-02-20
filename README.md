@@ -1,4 +1,2 @@
 >README.md file coming soon.
-####Dependencies
->Tensorflow
->Sci-kit learn
+https://github.com/adityakhannaadk/vectormark/blob/master/vectormark_better.png?raw=true
