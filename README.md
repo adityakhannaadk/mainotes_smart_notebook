@@ -3,9 +3,9 @@ Mainotes uses fast machine learning that runs on your computer. It learns how yo
 
 
 #### Prerequisites
-> Python
-> Sci-kit learn
-> Tkinter
+* Python
+* Sci-kit learn
+* Tkinter
 
 #### Run on windows.
 To run on windows, simply go to command prompt, change directory to the path containing the including code and then run using python:
